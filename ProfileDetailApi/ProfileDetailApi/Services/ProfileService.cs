@@ -37,7 +37,7 @@ namespace ProfileDetailApi.Services
                 User = new UserDto
                 {
                     Email = "kelikume@egmail.com",
-                    Name = "Kelvin Oshogbo",
+                    Name = "Kelvin K. Oshogbo",
                     Stack = ".NET / C#"
                 },
                 Timestamp = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ss.fffZ"),
